@@ -7,6 +7,13 @@ test-lib/
 eclipse-bin/
 override.properties
 .settings/
+.classpath
+.project
 /dev-lib
 /pdi-null
+/legacy/pdi-null
 /pdi-bin
+*.iml
+.idea/
+target/
+rebel.xml
